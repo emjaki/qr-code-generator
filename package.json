@@ -1,0 +1,24 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "learning exercise",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emjaki/qr-code-generator.git"
+  },
+  "author": "Emily Kiddell (from Angela Yu tutorial)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emjaki/qr-code-generator/issues"
+  },
+  "homepage": "https://github.com/emjaki/qr-code-generator#readme",
+  "dependencies": {
+    "inquirer": "^10.1.8",
+    "qr-image": "^3.2.0"
+  }
+}
